@@ -11,6 +11,9 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
   background-color: #f5f5f5;
+  background-image: url("https://media.gettyimages.com/photos/internet-news-picture-id122152095?s=2048x2048");
+  background-repeat: no-repeat;
+  background-size: 50% 100%;
 
 }
 
