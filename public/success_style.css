@@ -5,14 +5,17 @@ html, body {
         }
 .success-top {
   background-color: #f9ed69;
+  text-align: center;
 }
 .success-heading {
   font-size: 4rem;
 font-family: 'Sacramento', cursive;
+text-align: center;
 }
 .success-para{
   font-size: 2rem;
   font-family: 'Sacramento', cursive;
+  text-align: center;
 }
 
 /* .failure-top {
